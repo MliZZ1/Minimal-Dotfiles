@@ -1,8 +1,6 @@
 # Minimal-Dotfiles
 ☄Mina Dotfiles
 |
-|
-|
 
 Dependancies:
 
