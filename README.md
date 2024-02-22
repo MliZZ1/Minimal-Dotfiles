@@ -12,7 +12,9 @@ Dependancies:
 
 4. Rofi menyn
 
-5. Feh eller Nitrogen för bakgrunden
+5. git
+
+6. Feh eller Nitrogen för bakgrunden
 
 
 ________________________________________________________________________________________________________________________________________________
