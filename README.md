@@ -13,3 +13,7 @@ Dependancies:
 4. Rofi menyn
 
 5. Feh eller Nitrogen för bakgrunden
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+För att insatllera kör inastallonarch.sh
