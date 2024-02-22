@@ -1,2 +1,3 @@
 # Minimal-Dotfiles
-☄My personal dotfiles
+☄Mina Dotfiles
+
