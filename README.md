@@ -1,24 +1,24 @@
-# Minimal-Dotfiles
-☄Mina Dotfiles
+# Minimal-retro-Dotfiles
+☄ My Dotfiles
 |
 
 Dependancies:
 
-1. Firacode-mono Teckensnittet
+1. Firacode-mono font
 
-2. Alacritty terminal emulatorn
+2. Alacritty terminal emulator
 
-3. bspwm Window-Managern
+3. bspwm Window-Manager
 
-4. Rofi menyn
+4. Rofi
 
 5. git
 
-6. Feh eller Nitrogen för bakgrunden
+6. Feh or Nitrogen for wallpaper
 
 
 ________________________________________________________________________________________________________________________________________________
-OBS!!! GÖR BACKUPS!!!
+MAKE BACKUPS FOR GODS SAKE
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-För att insatllera kör inastallonarch.sh
+BEFORE running inastallonarch.sh
